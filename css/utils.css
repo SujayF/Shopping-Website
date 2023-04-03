@@ -1,0 +1,32 @@
+.flex-all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn{
+    padding: 5px 7px;
+    color: white;
+    background-color: var(--main-bg-color);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+
+.card-item{
+
+}
+.my-2{
+ 
+    margin: 26px 0;
+}
+.text-center{
+    text-align: center;
+}
+
+.my-1{
+    margin: 5px 0;
+}
+hr{
+color:blue;
+}
